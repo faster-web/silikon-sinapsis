@@ -2,8 +2,11 @@ cover
 frontmatter:
 maketitle
 tableofcontents
-preface.md
+pengantar.md
 mainmatter:
+IT_services.md
+software_engineering.md
+knowledge_data_discovery.md
 a_chapter.md
 another_chapter.md
 yet_another_chapter.md
